@@ -19,6 +19,8 @@ This project examines global CO₂ emissions trends from **1960 to 2022** to ide
 - Deficiencies in energy reporting affect accuracy—better tracking mechanisms needed
 ![Image](https://github.com/SimpleStepper/College-Presentations/blob/main/Slide%20Visualizations/Region%20and%20Income%20Levels.png)
 
+---
+
 ## Optimizing Supply Chain Efficiency: Amazon’s Strategic Innovations - [Project Link](https://github.com/SimpleStepper/College-Presentations/blob/main/Portfolio%20Projects/Amazon%20Presentation%20-%20OPSM%204820.pdf)
 ### Project Overview
 This project analyzes Amazon’s innovative strategies to mitigate supply chain disruptions, particularly during the 2022 holiday season. By leveraging vertical integration and data-driven logistics optimization, Amazon significantly reduced shipping delays compared to competitors.
