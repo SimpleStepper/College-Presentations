@@ -27,7 +27,7 @@ This project highlights the urgent need for **data-driven strategies** to combat
 
 ## Waiting Line Analysis - Froth Coffee Bar - [Project Link](https://github.com/SimpleStepper/College-Presentations/blob/main/Portfolio%20Projects/Waiting%20Line%20Analysis%20(Froth%20Coffee%20Bar).pdf)
 ### Project Overview
-To optimize customer wait times and service efficiency at Froth Coffee Bar using **data analytics**, queueing theory, and **simulation modeling**. This analysis utilizes **descriptive statistics**, **probability **distributions, and **Monte Carlo simulations** to identify bottlenecks, evaluate service capacity, and recommend data-driven solutions using **Excel**.
+To optimize customer wait times and service efficiency at Froth Coffee Bar using **data analytics**, queueing theory, and **simulation modeling**. This analysis utilizes **descriptive statistics**, **probability distributions**, and **Monte Carlo simulations** to identify bottlenecks, evaluate service capacity, and recommend data-driven solutions using **Excel**.
 ### Simulations & Insights:
 #### Simulation 1 (2 Servers – Current Setup)
 - Modeled **1,000 customers** using **Monte Carlo simulations**
