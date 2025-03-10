@@ -1,6 +1,6 @@
 # College-Presentations
 # Table of Content
-1) [CO₂ Emissions Project](CO₂-Emissions)
+1)  [CO₂ Emissions Project](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#-pathways-to-a-greener-future-co-emissions---project-link)
 ## <a name="CO₂-Emissions"></a> Pathways to a Greener Future: CO₂ Emissions - [Project Link](https://github.com/SimpleStepper/College-Presentations/blob/main/Portfolio%20Projects/Final%20Presentation%20-%20DSCI%204700.pdf)
 ### Project Overview
 This project examines global CO₂ emissions trends from **1960 to 2022** to identify key contributors, and propose data-driven solutions to support a **15% reduction** target **by 2030**. The analysis was conducted using **Excel**, **Tableau**, and **Power BI**, leveraging the Six Sigma **DMAIC methodology** to ensure a structured and effective approach.
