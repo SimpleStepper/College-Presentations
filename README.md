@@ -21,8 +21,10 @@ This project examines global CO₂ emissions trends from **1960 to 2022** to ide
 - Deficiencies in energy reporting affect accuracy—better tracking mechanisms needed
 ![Image](https://github.com/SimpleStepper/College-Presentations/blob/main/Slide%20Visualizations/Region%20and%20Income%20Levels.png)
 ### Conclusion
-This project highlights the urgent need for **data-driven strategies** to combat rising CO₂ emissions,**which increased 311% since 1960 worldwide**) and mitigate climate change. By leveraging the **Six Sigma DMAIC framework**, we analyzed global emissions data, identified top contributors, and proposed **practical solutions** for reducing emissions by **15% by 2030**.
+This project highlights the urgent need for **data-driven strategies** to combat rising CO₂ emissions, **which increased 311% since 1960 worldwide**), and mitigate climate change. By leveraging the **Six Sigma DMAIC framework**, we analyzed global emissions data, identified top contributors, and proposed **practical solutions** for reducing emissions by **15% by 2030**.
+
 ---
+
 ## Waiting Line Analysis - Froth Coffee Bar - [Project Link](https://github.com/SimpleStepper/College-Presentations/blob/main/Portfolio%20Projects/Waiting%20Line%20Analysis%20(Froth%20Coffee%20Bar).pdf)
 ### Project Overview
 To optimize customer wait times and service efficiency at Froth Coffee Bar using **data analytics**, queueing theory, and **simulation modeling**. This analysis utilizes **descriptive statistics**, **probability **distributions, and **Monte Carlo simulations** to identify bottlenecks, evaluate service capacity, and recommend data-driven solutions using **Excel**.
