@@ -2,7 +2,7 @@
 # Table of Content
 
 1)  [CO₂ Emissions Project](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#-pathways-to-a-greener-future-co-emissions---project-link)
-2)
+2)  [Waiting Line Analysis](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#waiting-line-analysis---froth-coffee-bar---project-link)
 3)  [Amazon Strategic Innovations](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#optimizing-supply-chain-efficiency-amazons-strategic-innovations---project-link)
 ## <a name="CO₂-Emissions"></a> Pathways to a Greener Future: CO₂ Emissions - [Project Link](https://github.com/SimpleStepper/College-Presentations/blob/main/Portfolio%20Projects/Final%20Presentation%20-%20DSCI%204700.pdf)
 ### Project Overview
