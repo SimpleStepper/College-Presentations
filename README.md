@@ -48,6 +48,7 @@ To optimize customer wait times and service efficiency at Froth Coffee Bar using
   - Total time in system: **8.9 min**
   - **5% of customers wait over 20 minutes**
   - Only **60% of customers** experience a wait time within the acceptable 2-minute threshold
+![image](https://github.com/SimpleStepper/College-Presentations/blob/main/Slide%20Visualizations/Daily%20Averages%20for%20Froth%20Desert%20bar.png)
  #### Simulation 2 (3 Servers – Optimized Model)
 - Increased staffing to **3 servers**, reran simulation with **1,000 customers**
 - Key Results:
@@ -57,6 +58,7 @@ To optimize customer wait times and service efficiency at Froth Coffee Bar using
   - **83%** fewer customers waiting over 20 minutes
   - **65%** of orders completed in under 6 minutes
  Results indicate that adding a third server significantly improves efficiency, reduces peak-hour congestion, and enhances customer experience.
+![image](https://github.com/SimpleStepper/College-Presentations/blob/main/Slide%20Visualizations/Frequency%20of%20Customer%20time%20in%20system%20per%20minute.png)
 ### Final Recomendations
 1. Add a Third Server:
    - The cost of **hiring another server ($10/hr)** is justified by the increased throughput and customer retention.
