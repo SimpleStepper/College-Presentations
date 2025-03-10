@@ -33,4 +33,41 @@ This project analyzes Amazon’s innovative strategies to mitigate supply chain 
 - Increased in-house package handling from **47% (2019) to 72% (2022)**
 - Lowered reliance on third-party logistics providers
 ![Image](https://github.com/SimpleStepper/College-Presentations/blob/main/Slide%20Visualizations/Amazon%20Investment%20in%20supply%20chain.png)
-  
+
+---
+## Waiting Line Analysis - Froth Coffee Bar - [Project Link](https://github.com/SimpleStepper/College-Presentations/blob/main/Portfolio%20Projects/Waiting%20Line%20Analysis%20(Froth%20Coffee%20Bar).pdf)
+### Project Overview
+To optimize customer wait times and service efficiency at Froth Coffee Bar using **data analytics**, queueing theory, and **simulation modeling**. This analysis utilizes **descriptive statistics**, **probability **distributions, and **Monte Carlo simulations** to identify bottlenecks, evaluate service capacity, and recommend data-driven solutions using **Excel**.
+### Simulations & Insights:
+#### Simulation 1 (2 Servers – Current Setup)
+- Modeled **1,000 customers** using **Monte Carlo simulations**
+- Results:
+  - Average wait time: **4.19 min**
+  - Total time in system: **8.9 min**
+  - **5% of customers wait over 20 minutes**
+  - Only **60% of customers** experience a wait time within the acceptable 2-minute threshold
+ #### Simulation 2 (3 Servers – Optimized Model)
+- Increased staffing to **3 servers**, reran simulation with **1,000 customers**
+- Key Results:
+  - **Wait time reduced by 91% (38 sec avg.)**
+  - **Service time decreased by 38%** (5.5 min avg.)
+  - **Maximum wait time reduced by 61.5% (from 40 min to 15.4 min)**
+  - **83%** fewer customers waiting over 20 minutes
+  - **65%** of orders completed in under 6 minutes
+ Results indicate that adding a third server significantly improves efficiency, reduces peak-hour congestion, and enhances customer experience.
+### Final Recomendations
+1. Add a Third Server:
+   - The cost of **hiring another server ($10/hr)** is justified by the increased throughput and customer retention.
+   - Reducing bottlenecks improves sales potential during peak hours.
+2. Implement a Self-Service Kiosk:
+   - A tablet-based ordering system **($800 one-time cost, 2.6% per transaction fee)** can reduce wait times by shifting order placement to customers.
+   - Allows servers to focus on faster order fulfillment.
+3. Optimize Staffing During Off-Peak Hours:
+   - Analysis suggests reducing staff after **2 PM** when demand decreases, cutting labor costs while maintaining efficiency.
+### Conclusion
+By applying **Monte Carlo simulations** and **data analytics**, this study provides data-driven recommendations that **optimize customer wait times**, **improve service efficiency**, and **enhance overall business performance**. Implementing a third server, self-service kiosks, and online ordering can significantly reduce congestion and increase revenue potential at Froth Coffee Bar.
+
+---
+
+
+
